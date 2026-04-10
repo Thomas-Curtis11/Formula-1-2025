@@ -1,6 +1,6 @@
 # Formula 1 2025 Dashboard Project
 # Overview
-Transformating data using web scraping from wikipedia and extracating datafiles from Microsoft Excel.
+Transformating data using web scraping from wikipedia and extracting datafiles from Microsoft Excel.
 Used Power Query to transform raw data into actionable insights.
 Built an interactive dashboard to represent driver and constructors championship, winners and pole positions.
 
